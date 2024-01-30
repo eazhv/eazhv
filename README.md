@@ -1,16 +1,35 @@
-### Hi there 👋
+# Zhivechkova Ekaterina
 
-<!--
-**eazhv/eazhv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst
 
-Here are some ideas to get you started:
+ABOUT_
+I enjoy to dive into the data and find patterns.
+Also like solving tasks related to Statistics and A/B testing.
+Love Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PROJECTS_
+
+Data analytics
+Description:
+Detailed analysis of the dataset with all the films of the TMDb site.
+Подробный анализ датасета с сайта о фильмах TMDb.
+A/B testing
+Description:
+My A/B experiments with dataset from Kaggle site.
+Эксперименты с А/B тестированием на примере датасета с сайта Kaggle
+A/A testing
+Description:
+A/A testing practice
+Работа с А/А тестированием
+Bootstrap & U-test
+Description:
+Working with statistical hypothesis testing methods
+Работа с методами проверки статистических гипотез
+STACK_
+
+Python (Pandas, Seaborn, SciPy, NumPy)
+SQL (ClickHouse, MySQL)
+A/B testing and statistics
+BI systems (Power BI)
+Git
+Excel
