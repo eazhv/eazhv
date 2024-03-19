@@ -2,34 +2,29 @@
 
 ## Data Analyst
 
-ABOUT_
-I enjoy to dive into the data and find patterns.
-Also like solving tasks related to Statistics and A/B testing.
-Love Data Science.
-
 PROJECTS_
 
-Data analytics
+- [Data analytics](https://github.com/eazhv/Karpov_course/blob/main/first_project/project_2_e_learning.ipynb)
 Description:
-Detailed analysis of the dataset with all the films of the TMDb site.
-Подробный анализ датасета с сайта о фильмах TMDb.
-A/B testing
+Detailed analysis of the dataset, segmentation and RFM analysis
+Подробный анализ датасета студентов, сегментация и проведение RFM-анализа
+- [A/B testing](https://github.com/eazhv/Karpov_course/tree/main/final_project)
 Description:
-My A/B experiments with dataset from Kaggle site.
-Эксперименты с А/B тестированием на примере датасета с сайта Kaggle
-A/A testing
+A/B testing of new payment mechanics
+A/B–тестирование новой механики оплаты
+- [A/A testing](https://github.com/eazhv/Karpov_course/blob/main/Statistics/zhivechkova_aa_simulations.ipynb)
 Description:
-A/A testing practice
-Работа с А/А тестированием
-Bootstrap & U-test
+A/A testing of a mobile application
+А/А-тестирование мобильного приложения
+- [ABC-XYZ analysis](https://github.com/eazhv/Karpov_course/blob/main/pharmacy_analysis/abc_xyz_analysis.ipynb)
 Description:
-Working with statistical hypothesis testing methods
-Работа с методами проверки статистических гипотез
-STACK_
+Analysis of the pharmacy product range
+Анализ товарного ассортимента аптеки
 
-Python (Pandas, Seaborn, SciPy, NumPy)
-SQL (ClickHouse, MySQL)
-A/B testing and statistics
-BI systems (Power BI)
-Git
-Excel
+STACK_
+- Python (Pandas, Seaborn, SciPy, NumPy)
+- SQL (ClickHouse, MySQL)
+- A/B testing and statistics
+- BI systems (Power BI)
+- Git
+- Excel
