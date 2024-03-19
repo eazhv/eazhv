@@ -5,9 +5,13 @@
 PROJECTS_
 
 - [Data analytics](https://github.com/eazhv/Karpov_course/blob/main/first_project/project_2_e_learning.ipynb)
+  
   __Description:__
+  
   Detailed analysis of the dataset, segmentation and RFM analysis
+  
   Подробный анализ датасета студентов, сегментация и проведение RFM-анализа
+  
 - [A/B testing](https://github.com/eazhv/Karpov_course/tree/main/final_project)
   __Description:__
   A/B testing of new payment mechanics
