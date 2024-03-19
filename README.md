@@ -23,8 +23,6 @@ PROJECTS_
 
 STACK_
 - Python (Pandas, Seaborn, SciPy, NumPy)
-- SQL (PostgreSQL, MySQL)
+- SQL (ClickHouse)
 - A/B testing and statistics
-- BI systems (Power BI)
 - Git
-- Excel
